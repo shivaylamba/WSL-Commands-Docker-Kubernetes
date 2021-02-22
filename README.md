@@ -20,3 +20,5 @@ List of Resources :
 8. https://blog.bitsrc.io/a-guide-to-docker-multi-stage-builds-206e8f31aeb8
 <br> 
 9. https://itnext.io/using-multi-stage-docker-builds-for-speed-and-security-9d3a1cd9cd8c
+<br> 
+10. https://www.youtube.com/watch?v=X48VuDVv0do&feature=youtu.be
