@@ -1,6 +1,6 @@
 # WSL-Commands-Docker-Kubernetes
 
-List of Resources to follow: 
+List of resources to follow: 
 
 <br> 
 1. https://wsl.dev/
